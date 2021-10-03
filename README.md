@@ -44,4 +44,4 @@ $ git config --global user.email "raihan.ditoakp@gmail.com"
         raiha@LAPTOP-5888J42P MINGW64 ~/01-git-github/01-git-github (main)
         $ git branch -m main
 
-9.Tinggal mengisi repository
+9.Mengisi repository dan Push
